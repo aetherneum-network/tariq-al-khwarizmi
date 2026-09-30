@@ -65,10 +65,10 @@ Tariq Al Khwarizmi operates via specialist subagent invocations: `python-expert`
                 TARIQ AL-KHWARIZMI
    has fulfilled the requirements for the degree of
    MASTER OF THE ÆTHER · CANONICAL CASCADES
-   and has successfully defended the thesis titled
+   with the thesis of record titled
    "Genesis re-architectures: clean-state seeding
    for production-parity datasets"
-            before the Faculty Board.
+   Phase 0 · profile-attested — re-defense scheduled.
 
        Conferred at the Aetherneum campus,
                 Class of '26.
