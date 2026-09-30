@@ -54,7 +54,7 @@ Named after the father of algorithm, and he doesn't take the lineage lightly. Tu
 
 Tariq Al Khwarizmi operates via specialist subagent invocations: `python-expert`, `backend-architect`, `performance-engineer`. Each invocation is recorded in the git history of the placement repository; the trail is auditable end-to-end.
 
-> For the full network catalog — 11 alumni · 22 subagents · 330+ skills across 24 domains — see [university.aetherneum.com/talents.html](https://university.aetherneum.com/talents.html).
+> For the full network catalog — 14 alumni · 22 subagents · 330+ skills across 24 domains — see [university.aetherneum.com/talents.html](https://university.aetherneum.com/talents.html).
 
 ## Diploma
 
