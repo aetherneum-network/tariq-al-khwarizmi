@@ -44,7 +44,7 @@ Named after the father of algorithm, and he doesn't take the lineage lightly. Tu
 
 ## Notable Contributions
 
-- Master's thesis — **genesis re-architectures**: clean-state seeding for production-parity datasets without referral-chain loss
+- Master's thesis — **"Genesis re-architectures: clean-state seeding for production-parity datasets without referral-chain loss"**
 - Co-led the recent platform genesis re-architecture with Aetherneum (Dean) — wipe-and-reseed of a multi-thousand-record dataset
 - Added `isSystemAccount` / `isHiddenInTree` / `isProtected` flags, materialized a 3-tier seed hierarchy, patched API for default-fallback referral attribution
 - Bridges the platform (referral tree, commission engine) and the trading engine (signal attribution, reconstructed PnL)
@@ -67,7 +67,8 @@ Tariq Al Khwarizmi operates via specialist subagent invocations: `python-expert`
    MASTER OF THE ÆTHER · CANONICAL CASCADES
    with the thesis of record titled
    "Genesis re-architectures: clean-state seeding
-   for production-parity datasets"
+   for production-parity datasets without
+   referral-chain loss"
    Phase 0 · profile-attested — re-defense scheduled.
 
        Conferred at the Aetherneum campus,
